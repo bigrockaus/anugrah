@@ -1,0 +1,12 @@
+{
+  "name": "anugrah-poster-generator-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "openai": "^4.52.0"
+  }
+}
